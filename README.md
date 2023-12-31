@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, MATLA8
 
 ## Education
-- #### Ph.D., Computer Science | NC State University (_Expected May 2028_)								       		
-- #### M.Sc., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+   #### Ph.D., Computer Science | NC State University, Raleigh (_Expected May 2028_)								       		
+- #### M.Sc., Computer Science	| African University of Science& Technology, Abuja (_December 2017_)	 			        		
+- #### B.S., Computer Science | Ahmadu Bello Univesity, Zaria (_December 2012_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
