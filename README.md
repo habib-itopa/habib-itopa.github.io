@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, MATLA8
 
 ## Education
-- ##### Ph.D., Computer Science | NC State University, Raleigh (_Expected May 2028_)								       		
+- #### Ph.D., Computer Science | NC State University, Raleigh (_Expected May 2028_)								       		
 - #### M.Sc., Computer Science	| African University of Science & Technology, Abuja (_December 2017_)	 			        		
 - #### B.S., Computer Science | Ahmadu Bello Univesity, Zaria (_December 2012_)
 
@@ -52,4 +52,4 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Linkedin Profile][(https://www.linkedin.com/in/habibmohammed247/)https://www.linkedin.com/in/habibmohammed247/)
