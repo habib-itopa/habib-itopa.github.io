@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, MATLA8
 
 ## Education
-- Ph.D., Computer Science | NC State University (_Expected May 2028_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- #### Ph.D., Computer Science | NC State University (_Expected May 2028_)								       		
+- #### M.Sc., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
