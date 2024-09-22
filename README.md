@@ -25,6 +25,7 @@ I am a Second Year PhD Student at North Carolina State University, Raleigh. My r
 ### Automated Learning and Data Analysis (Python)
 - Developed machine learning models to predict rainfall patterns using a 50-year precipitation dataset, achieving improved accuracy through cross-validation techniques.
 - Applied neural networks and regression models, optimizing parameters to minimize mean squared error.
+  
 ### Software Security
 - Conducted security testing for OpenEMR using white box, black box, and fuzz testing techniques.
 - Identified vulnerabilities, assessed risks, and developed mitigation strategies, improving software security protocols.
