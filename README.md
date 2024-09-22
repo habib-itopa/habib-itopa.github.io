@@ -1,5 +1,5 @@
 # PhD Student
-I am a Second Year PhD Student at North Carolina State University, Raleigh. My research is focused on modelling transactional behaviours in decentralized marketplaces.
+I am a Second Year PhD Student at North Carolina State University, Raleigh. My research is focused on modelling declarative transactional behaviours in decentralized marketplaces.
 
 #### Technical Skills: Python, SQL, Git, Docker.
 
